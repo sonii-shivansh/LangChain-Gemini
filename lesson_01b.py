@@ -24,4 +24,4 @@ messages = [
 # ])
 
 response = llm.invoke(messages)
-print(response.content)
+print(response.text)
