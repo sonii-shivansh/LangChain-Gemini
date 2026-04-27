@@ -1,0 +1,11 @@
+Machine learning transforms how we process data.
+Neural networks learn patterns from examples.
+
+Deep learning uses multiple layers of neurons.
+It excels at image and speech recognition.
+
+Natural language processing handles text.
+It powers chatbots and translation systems.
+
+Reinforcement learning trains through rewards.
+Agents learn optimal strategies over time.
